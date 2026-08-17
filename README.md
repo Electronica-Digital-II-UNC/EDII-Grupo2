@@ -1,2 +1,4 @@
 # EDII-Grupo2
-Ejercicio de practica 
+Ejercicio de práctica
+
+Primer línea en el repositorio para electrónica digital II 
